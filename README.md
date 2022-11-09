@@ -13,9 +13,9 @@
     - [ ] TEST FAIL
     - [x] TEST PASS
     - [ ] REFACTORING
-- [ ] 숫자 하나를 문자열로 입력할 경우 해당 숫자를 반환
+- [x] 숫자 하나를 문자열로 입력할 경우 해당 숫자를 반환
     - [ ] TEST FAIL
-    - [ ] TEST PASS
+    - [x] TEST PASS
     - [ ] REFACTORING
 - [ ] 숫자 두개를 컴마(,) 구분자로 입력할 경우 두 숫자의 합을 반환
     - [ ] TEST FAIL
