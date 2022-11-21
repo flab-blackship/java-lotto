@@ -1,5 +1,6 @@
 package main.java.lotto;
 
+
 public class LottoRunner {
     public static void main(String[] args) {
         int randomNumber = 39;
