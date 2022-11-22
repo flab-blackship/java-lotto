@@ -17,5 +17,8 @@ public class LottoRunner {
         LottoGenerator04 creation04 = new LottoGenerator04();
         System.out.println( creation04.bound(1,45));
         // 호출하는 방법을 모르겠어요..ㅜㅜ
+
+        LottoTicket02 creation001 = new LottoTicket02();
+        System.out.println(creation001.lottonumbers(45));
     }
 }
