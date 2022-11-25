@@ -29,26 +29,26 @@
     - [ ] TEST FAIL
     - [x] TEST PASS
     - [x] REFACTORING
-- [ ] 음수를 전달할 경우 RuntimeException 예외가 발생
+- [x] 음수를 전달할 경우 RuntimeException 예외가 발생
     - [ ] TEST FAIL
-    - [ ] TEST PASS
+    - [x] TEST PASS
     - [ ] REFACTORING
-- [ ] 분할된 각 입력값을 객체(Element)로 분할
+- [x] 분할된 각 입력값을 객체(Element)로 분할
     - [ ] TEST - 정수로 Element 생성
     - [ ] TEST - 문자열로 Element 생성
     - [ ] TEST - 음수값 전달될 경우 RuntimeException 발생
     - [ ] TEST - 숫자 아닌 값 전달될 경우 RuntimeException 발생
     - [ ] REFACTORING
-- [ ] Element의 일급 컬렉션(Elements) 생성
+- [x] Element의 일급 컬렉션(Elements) 생성
     - [ ] TEST - Elements를 List로 생성
     - [ ] TEST - 요소들의 합을 구하는 메서드 추가
     - [ ] REFACTORING
-- [ ] 입력값 분할하는 메서드를 객체(StringSplitter)로 분할
+- [x] 입력값 분할하는 메서드를 객체(StringSplitter)로 분할
     - [ ] TEST - StringSplitter 생성
     - [ ] TEST - 입력된 문자열을 규칙에 따라 분할하여 배열로 반환
     - [ ] TEST - 규칙에 따라 분할된 배열을 Elements 객체로 반환
     - [ ] REFACTORING
-- [ ] 외부로 위임된 StringCalculator 안의 메서드들 정리
+- [x] 외부로 위임된 StringCalculator 안의 메서드들 정리
 
 ### step1 - 이슈
 - Element 객체를 불변 객체로 만들 필요가 있을지
